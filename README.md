@@ -63,7 +63,7 @@ Every agent runs with a fresh context — no shared conversation history. The in
 
 The full write-up of the build — scoping from an open dataset, the cost decisions behind the $45/month runtime, what got cut to ship in three days: **[Inside MEV's AI Innovation Lab: shipping a PoC in 72 hours](https://mev.com/blog/how-mev-shipped-a-poc-in-72-hours-with-ai-agents)**
 
-The delivery system is how MEV's AI Innovation Lab ships client work. If you have a PoC or an early-stage product in mind: [Innovation Lab as a Service](https://mev.com/services/innovation-lab-as-servise?utm_source=github&utm_medium=readme&utm_campaign=agent-specs).
+The delivery system is how MEV's AI Innovation Lab ships client work. If you have a PoC or an early-stage product in mind: [Innovation Lab as a Service](https://mev.com/services/innovation-lab?utm_source=github&utm_medium=readme&utm_campaign=agent-specs).
 
 ## License
 
